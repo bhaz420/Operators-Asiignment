@@ -1,0 +1,5 @@
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Operators Assign\Operators Assign\obj\Debug\net5.0\Operators Assign..csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Operators Assign\Operators Assign\obj\Debug\net5.0\Operators Assign..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Operators Assign\Operators Assign\obj\Debug\net5.0\Operators Assign..AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Operators Assign\Operators Assign\obj\Debug\net5.0\Operators Assign..AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Operators Assign\Operators Assign\obj\Debug\net5.0\Operators Assign..csproj.CoreCompileInputs.cache
